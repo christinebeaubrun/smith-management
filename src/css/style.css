@@ -1,0 +1,7 @@
+.headshot {
+    background: url('../img/aws-headshot.jpg');
+    width: 40px;
+    height: 40px;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
